@@ -26,4 +26,4 @@ async function upload({version = '0.0.0', desc ='test'}) {
     })
 }
 
-upload({version: '0.0.1', desc: '测试'})
+upload({version: '1.0.0', desc: '测试'})
